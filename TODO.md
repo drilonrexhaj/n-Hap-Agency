@@ -1,0 +1,3 @@
+- [x] Add new "About Us" section below contact section with modern design and statement about the agency
+- [x] Add id="rrethnesh" to the new section to fix navbar link
+- [x] Update CSS for the new section styling
